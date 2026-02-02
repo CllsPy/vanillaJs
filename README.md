@@ -1,0 +1,2 @@
+# vanillaJs
+vanilla js project
